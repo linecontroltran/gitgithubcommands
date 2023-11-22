@@ -1,0 +1,7 @@
+git config --global user.name "Tom Tran"
+
+git config --global user.email "linecontroltran@gmail
+.com"
+
+git config --global credential.username "linecontrolt
+ran@gmail.com"
