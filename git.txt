@@ -1,0 +1,9 @@
+git init
+
+git add .
+
+git commit -m "type a message here"
+
+git remote add origin (url)
+
+git push origin master/main
