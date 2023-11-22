@@ -1,0 +1,19 @@
+goto github
+
+settings
+
+developer settings
+
+personal access tokens
+
+tokens classic
+
+generate new token 
+
+classic
+
+check all check boxes
+
+copy token link
+
+goto personal access tokens.txt to see commands
