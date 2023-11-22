@@ -1,0 +1,5 @@
+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
+
+git remote set-url origin "https://<token>@github.com/<username>/<repo>
+
+git remote set-url origin "https://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@github.com/linecontroltran/githubcommands
