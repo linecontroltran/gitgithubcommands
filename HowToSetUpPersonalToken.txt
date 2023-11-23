@@ -1,0 +1,23 @@
+Make the token
+
+then download 
+
+git credential manager (GCM)
+
+brew install --casl git-credential-manager
+
+make a repo on github
+
+try to push something to it.
+
+it will ask you to authenticate.
+
+try and use the personal access token and input this into the modal that pops up.
+
+do not use your username/password for github
+
+use your token.
+
+from now and on it should work without having to enter in a password each and everytime
+
+and also you do not have to authorize the modal for each repository.

@@ -1,7 +1,1 @@
-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
-
-git remote set-url origin "https://<token>@github.com/<username>/<repo>
-
-git remote set-url origin "https://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@github.com/linecontroltran/githubcommands
-
-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
+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
